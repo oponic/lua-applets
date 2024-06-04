@@ -4,5 +4,5 @@ literally nobody likes wasm. admit it
 who cares, java applets were too
 ## big security flaws
 thats why lua!!!!!!!!
-we cna make securityo that stops filesystem access and non-lua code!!!!!!!
+oh and its gonna be server-side now
 ## ok im in real
